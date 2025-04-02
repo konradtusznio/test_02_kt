@@ -1,0 +1,7 @@
+print("T")
+print("I")
+print("T")
+print("A")
+print("N")
+print("I")
+print("C")
